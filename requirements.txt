@@ -1,0 +1,8 @@
+pandas
+scipy
+matplotlib
+pillow
+pmdarima
+datasets
+scikit-learn
+statsmodels
